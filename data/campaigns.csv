@@ -1,0 +1,201 @@
+campaign_id,campaign_name,campaign_type,channel,start_date,end_date,discount_pct,target_segment,campaign_number_of_type,budget_spent,reach
+CAMP0001,Clearance #1 - Mar 2022,Clearance,Social Media,2022-03-02,2022-03-10,8.74,Regular,1,4779.52,4069
+CAMP0002,Flash Sale #1 - Sep 2022,Flash Sale,In-App,2022-09-24,2022-10-02,9.53,Regular,1,4531.21,2689
+CAMP0003,Clearance #2 - Jun 2022,Clearance,Email,2022-06-27,2022-07-11,18.94,Budget,2,4324.09,4175
+CAMP0004,Seasonal #1 - Sep 2021,Seasonal,Multi-Channel,2021-09-03,2021-09-05,11.01,Regular,1,1474.39,1685
+CAMP0005,Email Blast #1 - Nov 2021,Email Blast,In-App,2021-11-19,2021-12-02,14.47,Premium,1,3979.1,4608
+CAMP0006,Loyalty Reward #1 - Sep 2022,Loyalty Reward,Social Media,2022-09-16,2022-09-30,8.66,Regular,1,8097.47,4325
+CAMP0007,Flash Sale #2 - May 2024,Flash Sale,Multi-Channel,2024-05-20,2024-05-21,12.47,Premium,2,405.47,572
+CAMP0008,Email Blast #2 - Mar 2022,Email Blast,Push Notification,2022-03-17,2022-03-31,10.12,Premium,2,1022.74,940
+CAMP0009,Clearance #3 - Nov 2022,Clearance,Email,2022-11-03,2022-11-06,21.45,All,3,7931.24,3227
+CAMP0010,Seasonal #2 - Jul 2021,Seasonal,Multi-Channel,2021-07-06,2021-07-18,7.86,Regular,2,8421.26,3353
+CAMP0011,Email Blast #3 - May 2022,Email Blast,Social Media,2022-05-24,2022-05-30,14.11,Budget,3,5299.7,2623
+CAMP0012,Flash Sale #3 - Mar 2023,Flash Sale,Push Notification,2023-03-23,2023-04-01,7.62,Budget,3,2417.54,2700
+CAMP0013,Loyalty Reward #2 - Apr 2021,Loyalty Reward,Email,2021-04-11,2021-04-22,9.58,Regular,2,2077.76,880
+CAMP0014,Seasonal #3 - Sep 2022,Seasonal,Multi-Channel,2022-09-05,2022-09-10,12.72,Budget,3,8167.96,4181
+CAMP0015,Flash Sale #4 - Dec 2021,Flash Sale,Push Notification,2021-12-23,2021-12-24,19.12,Premium,4,2808.67,3607
+CAMP0016,Seasonal #4 - Apr 2023,Seasonal,Multi-Channel,2023-04-09,2023-04-23,15.42,Regular,4,984.24,1579
+CAMP0017,Seasonal #5 - Jul 2023,Seasonal,In-App,2023-07-16,2023-07-25,9.5,Regular,5,5382.35,3103
+CAMP0018,Loyalty Reward #3 - Feb 2024,Loyalty Reward,In-App,2024-02-01,2024-02-05,18.09,Premium,3,2398.71,1055
+CAMP0019,Email Blast #4 - Jul 2021,Email Blast,Social Media,2021-07-13,2021-07-21,8.73,Premium,4,4122.09,3057
+CAMP0020,Email Blast #5 - Jul 2021,Email Blast,In-App,2021-07-28,2021-08-10,15.19,Regular,5,8400.61,3457
+CAMP0021,Email Blast #6 - Oct 2021,Email Blast,In-App,2021-10-14,2021-10-16,11.88,All,6,2626.74,3471
+CAMP0022,Flash Sale #5 - Jan 2021,Flash Sale,Push Notification,2021-01-25,2021-01-26,18.14,Budget,5,1655.29,2392
+CAMP0023,Seasonal #6 - Apr 2022,Seasonal,Push Notification,2022-04-01,2022-04-04,11.25,Regular,6,3402.69,2336
+CAMP0024,Flash Sale #6 - Feb 2022,Flash Sale,Social Media,2022-02-10,2022-02-24,12.39,All,6,2210.68,1476
+CAMP0025,Flash Sale #7 - Apr 2023,Flash Sale,Push Notification,2023-04-01,2023-04-07,8.63,All,7,5120.63,2826
+CAMP0026,Seasonal #7 - Jul 2024,Seasonal,Push Notification,2024-07-14,2024-07-25,12.59,Premium,7,3904.1,3571
+CAMP0027,Loyalty Reward #4 - Jun 2021,Loyalty Reward,In-App,2021-06-22,2021-07-02,7.05,Premium,4,2961.41,1693
+CAMP0028,Seasonal #8 - Apr 2024,Seasonal,Social Media,2024-04-15,2024-04-20,19.04,Premium,8,4500.0,2186
+CAMP0029,Flash Sale #8 - Jun 2021,Flash Sale,Push Notification,2021-06-03,2021-06-04,9.04,Regular,8,1718.42,823
+CAMP0030,Flash Sale #9 - May 2021,Flash Sale,Social Media,2021-05-13,2021-05-17,13.92,Premium,9,11606.35,4973
+CAMP0031,Email Blast #7 - Aug 2024,Email Blast,Push Notification,2024-08-15,2024-08-23,16.24,Regular,7,6640.76,3069
+CAMP0032,Flash Sale #10 - Sep 2021,Flash Sale,Multi-Channel,2021-09-21,2021-09-23,12.21,Budget,10,13686.64,4975
+CAMP0033,Clearance #4 - Nov 2022,Clearance,In-App,2022-11-11,2022-11-13,10.85,Budget,4,6836.76,4172
+CAMP0034,Seasonal #9 - Mar 2021,Seasonal,Multi-Channel,2021-03-29,2021-04-06,15.0,Regular,9,7113.09,2506
+CAMP0035,Email Blast #8 - Apr 2021,Email Blast,Social Media,2021-04-14,2021-04-17,21.58,Regular,8,1140.52,1333
+CAMP0036,Email Blast #9 - Mar 2024,Email Blast,Social Media,2024-03-21,2024-03-28,18.68,Regular,9,4790.3,4214
+CAMP0037,Loyalty Reward #5 - Mar 2023,Loyalty Reward,Social Media,2023-03-20,2023-03-28,14.0,Budget,5,2519.86,3004
+CAMP0038,Clearance #5 - Mar 2021,Clearance,Social Media,2021-03-02,2021-03-09,10.49,Regular,5,2453.41,4018
+CAMP0039,Flash Sale #11 - Oct 2024,Flash Sale,Email,2024-10-31,2024-11-07,18.82,Regular,11,1169.49,930
+CAMP0040,Loyalty Reward #6 - Dec 2021,Loyalty Reward,Multi-Channel,2021-12-20,2021-12-26,13.77,All,6,3453.04,1270
+CAMP0041,Seasonal #10 - Mar 2022,Seasonal,In-App,2022-03-16,2022-03-19,15.66,Regular,10,2030.21,2507
+CAMP0042,Email Blast #10 - Jul 2022,Email Blast,Multi-Channel,2022-07-18,2022-07-23,24.8,Budget,10,9705.3,4175
+CAMP0043,Loyalty Reward #7 - Jul 2023,Loyalty Reward,In-App,2023-07-03,2023-07-06,13.6,Regular,7,1281.47,1989
+CAMP0044,Clearance #6 - Mar 2021,Clearance,Email,2021-03-12,2021-03-22,17.17,Regular,6,1823.57,3544
+CAMP0045,Email Blast #11 - Jun 2024,Email Blast,Social Media,2024-06-22,2024-07-02,16.24,Regular,11,10646.94,4894
+CAMP0046,Email Blast #12 - May 2022,Email Blast,In-App,2022-05-19,2022-05-30,21.51,Regular,12,7446.84,2588
+CAMP0047,Seasonal #11 - Aug 2022,Seasonal,Social Media,2022-08-28,2022-09-05,19.85,All,11,5403.12,2608
+CAMP0048,Flash Sale #12 - Apr 2023,Flash Sale,In-App,2023-04-24,2023-05-03,23.03,All,12,3158.18,2813
+CAMP0049,Flash Sale #13 - Sep 2023,Flash Sale,Push Notification,2023-09-09,2023-09-10,19.42,All,13,2902.64,3570
+CAMP0050,Flash Sale #14 - Jun 2021,Flash Sale,Push Notification,2021-06-29,2021-07-04,19.4,All,14,7267.67,3337
+CAMP0051,Flash Sale #15 - Feb 2023,Flash Sale,Social Media,2023-02-24,2023-02-27,23.1,Regular,15,4745.1,3794
+CAMP0052,Email Blast #13 - May 2023,Email Blast,Push Notification,2023-05-09,2023-05-13,26.1,All,13,809.68,630
+CAMP0053,Email Blast #14 - Aug 2024,Email Blast,In-App,2024-08-09,2024-08-22,21.87,Budget,14,2268.77,1493
+CAMP0054,Loyalty Reward #8 - Dec 2023,Loyalty Reward,Push Notification,2023-12-13,2023-12-17,10.29,Premium,8,3170.05,1884
+CAMP0055,Flash Sale #16 - Jul 2024,Flash Sale,Multi-Channel,2024-07-15,2024-07-28,18.43,Budget,16,4644.15,3544
+CAMP0056,Seasonal #12 - Jan 2024,Seasonal,Push Notification,2024-01-19,2024-02-01,17.97,Regular,12,10244.29,3518
+CAMP0057,Seasonal #13 - Feb 2021,Seasonal,Social Media,2021-02-09,2021-02-16,22.5,All,13,5217.65,3625
+CAMP0058,Flash Sale #17 - Jan 2023,Flash Sale,Push Notification,2023-01-06,2023-01-14,19.75,Regular,17,5528.62,2572
+CAMP0059,Flash Sale #18 - Jan 2024,Flash Sale,Social Media,2024-01-21,2024-02-03,28.75,Premium,18,1627.88,1543
+CAMP0060,Seasonal #14 - Sep 2023,Seasonal,Push Notification,2023-09-20,2023-09-26,19.33,Regular,14,4893.57,4946
+CAMP0061,Flash Sale #19 - Mar 2024,Flash Sale,Social Media,2024-03-04,2024-03-13,17.44,Regular,19,5089.22,3955
+CAMP0062,Flash Sale #20 - Oct 2022,Flash Sale,Email,2022-10-21,2022-10-28,21.95,Premium,20,8415.25,2883
+CAMP0063,Flash Sale #21 - Jul 2022,Flash Sale,Push Notification,2022-07-08,2022-07-11,16.32,All,21,9897.61,4536
+CAMP0064,Email Blast #15 - Feb 2021,Email Blast,Social Media,2021-02-23,2021-03-01,17.85,All,15,3886.47,2195
+CAMP0065,Flash Sale #22 - May 2024,Flash Sale,Social Media,2024-05-07,2024-05-11,18.5,Budget,22,4120.26,3932
+CAMP0066,Email Blast #16 - Mar 2021,Email Blast,In-App,2021-03-02,2021-03-15,21.54,Regular,16,2724.55,3454
+CAMP0067,Flash Sale #23 - Jul 2022,Flash Sale,Push Notification,2022-07-30,2022-07-31,19.17,All,23,3742.72,3649
+CAMP0068,Email Blast #17 - Aug 2023,Email Blast,In-App,2023-08-25,2023-09-03,14.64,All,17,4539.93,3026
+CAMP0069,Seasonal #15 - Jan 2023,Seasonal,Multi-Channel,2023-01-03,2023-01-16,17.56,Budget,15,2318.46,1154
+CAMP0070,Flash Sale #24 - Apr 2024,Flash Sale,Social Media,2024-04-11,2024-04-15,30.18,Premium,24,1287.8,1119
+CAMP0071,Seasonal #16 - Nov 2021,Seasonal,In-App,2021-11-23,2021-11-25,18.96,Budget,16,13154.1,4747
+CAMP0072,Email Blast #18 - May 2022,Email Blast,Social Media,2022-05-23,2022-06-03,27.83,Budget,18,3282.28,3492
+CAMP0073,Loyalty Reward #9 - May 2022,Loyalty Reward,Social Media,2022-05-09,2022-05-14,13.87,Premium,9,9771.69,4005
+CAMP0074,Clearance #7 - Dec 2023,Clearance,Social Media,2023-12-29,2024-01-12,18.53,All,7,3264.11,1611
+CAMP0075,Seasonal #17 - Apr 2021,Seasonal,In-App,2021-04-25,2021-05-08,28.36,Budget,17,905.85,556
+CAMP0076,Seasonal #18 - Mar 2022,Seasonal,Social Media,2022-03-26,2022-04-05,27.14,Regular,18,2192.88,1114
+CAMP0077,Seasonal #19 - Mar 2023,Seasonal,Push Notification,2023-03-07,2023-03-13,29.17,Premium,19,765.07,554
+CAMP0078,Clearance #8 - Dec 2021,Clearance,Push Notification,2021-12-22,2021-12-25,18.09,Regular,8,1989.56,3159
+CAMP0079,Flash Sale #25 - Apr 2022,Flash Sale,Push Notification,2022-04-30,2022-05-10,22.96,Premium,25,1477.43,1603
+CAMP0080,Seasonal #20 - Oct 2022,Seasonal,Social Media,2022-10-14,2022-10-27,28.0,All,20,1543.59,1056
+CAMP0081,Flash Sale #26 - Jan 2023,Flash Sale,In-App,2023-01-05,2023-01-15,32.95,Premium,26,10025.81,3816
+CAMP0082,Flash Sale #27 - Feb 2021,Flash Sale,Push Notification,2021-02-27,2021-03-11,29.27,All,27,1040.03,1260
+CAMP0083,Loyalty Reward #10 - Dec 2022,Loyalty Reward,Multi-Channel,2022-12-22,2023-01-01,11.56,Budget,10,2105.15,1742
+CAMP0084,Loyalty Reward #11 - Feb 2024,Loyalty Reward,Email,2024-02-29,2024-03-03,16.01,Budget,11,530.54,771
+CAMP0085,Seasonal #21 - Feb 2024,Seasonal,Social Media,2024-02-28,2024-03-03,28.34,Premium,21,7833.77,3964
+CAMP0086,Email Blast #19 - Oct 2023,Email Blast,In-App,2023-10-06,2023-10-15,28.94,Budget,19,1019.95,1895
+CAMP0087,Flash Sale #28 - Sep 2022,Flash Sale,Social Media,2022-09-25,2022-09-28,33.95,Budget,28,3294.09,1134
+CAMP0088,Loyalty Reward #12 - Oct 2023,Loyalty Reward,Social Media,2023-10-02,2023-10-03,22.63,All,12,3419.11,1880
+CAMP0089,Email Blast #20 - Jul 2021,Email Blast,Email,2021-07-04,2021-07-05,24.6,Premium,20,4013.82,1525
+CAMP0090,Clearance #9 - Apr 2022,Clearance,In-App,2022-04-22,2022-05-02,11.36,Regular,9,8205.48,3340
+CAMP0091,Flash Sale #29 - Mar 2022,Flash Sale,Email,2022-03-25,2022-03-26,29.19,Premium,29,3661.77,4500
+CAMP0092,Flash Sale #30 - Dec 2023,Flash Sale,Social Media,2023-12-15,2023-12-23,23.52,All,30,2371.59,1969
+CAMP0093,Loyalty Reward #13 - Jan 2021,Loyalty Reward,Multi-Channel,2021-01-02,2021-01-08,15.12,All,13,9123.38,4386
+CAMP0094,Clearance #10 - Jun 2024,Clearance,Push Notification,2024-06-11,2024-06-15,18.41,All,10,4144.93,1974
+CAMP0095,Flash Sale #31 - Sep 2021,Flash Sale,Multi-Channel,2021-09-25,2021-10-01,31.57,Regular,31,3961.69,3414
+CAMP0096,Flash Sale #32 - Dec 2021,Flash Sale,Push Notification,2021-12-30,2022-01-12,22.6,Budget,32,7606.88,4125
+CAMP0097,Loyalty Reward #14 - Oct 2022,Loyalty Reward,Email,2022-10-25,2022-10-26,24.22,Budget,14,4960.08,4610
+CAMP0098,Seasonal #22 - Feb 2021,Seasonal,Email,2021-02-14,2021-02-17,29.9,Premium,22,6401.31,2655
+CAMP0099,Email Blast #21 - Apr 2024,Email Blast,In-App,2024-04-16,2024-04-28,16.74,All,21,1609.8,1350
+CAMP0100,Clearance #11 - Oct 2021,Clearance,Social Media,2021-10-18,2021-10-31,11.68,Regular,11,3499.51,1241
+CAMP0101,Clearance #12 - Aug 2021,Clearance,Push Notification,2021-08-16,2021-08-30,22.95,Budget,12,3351.03,2306
+CAMP0102,Loyalty Reward #15 - Dec 2023,Loyalty Reward,Social Media,2023-12-14,2023-12-28,23.87,Premium,15,2714.4,3023
+CAMP0103,Clearance #13 - Jan 2023,Clearance,Multi-Channel,2023-01-18,2023-01-20,21.21,Premium,13,5687.37,4817
+CAMP0104,Email Blast #22 - Feb 2023,Email Blast,Email,2023-02-05,2023-02-17,25.26,Regular,22,3255.4,1294
+CAMP0105,Flash Sale #33 - Sep 2024,Flash Sale,In-App,2024-09-18,2024-09-25,33.57,Budget,33,780.54,882
+CAMP0106,Email Blast #23 - Apr 2024,Email Blast,Email,2024-04-15,2024-04-17,16.74,Premium,23,724.06,801
+CAMP0107,Flash Sale #34 - Nov 2022,Flash Sale,Push Notification,2022-11-21,2022-11-26,28.72,Regular,34,7705.16,3310
+CAMP0108,Flash Sale #35 - Oct 2022,Flash Sale,Multi-Channel,2022-10-23,2022-10-26,22.24,Budget,35,3252.58,1599
+CAMP0109,Loyalty Reward #16 - Nov 2021,Loyalty Reward,Multi-Channel,2021-11-19,2021-12-01,16.18,All,16,5162.85,2603
+CAMP0110,Flash Sale #36 - Jun 2023,Flash Sale,Email,2023-06-14,2023-06-27,29.72,Premium,36,3831.82,1840
+CAMP0111,Loyalty Reward #17 - Aug 2024,Loyalty Reward,Push Notification,2024-08-02,2024-08-10,26.23,Regular,17,12713.73,4795
+CAMP0112,Flash Sale #37 - Aug 2024,Flash Sale,Email,2024-08-22,2024-08-28,23.62,Budget,37,3388.59,2282
+CAMP0113,Seasonal #23 - Dec 2021,Seasonal,In-App,2021-12-23,2022-01-04,31.34,Premium,23,3770.24,1831
+CAMP0114,Flash Sale #38 - Feb 2024,Flash Sale,Multi-Channel,2024-02-25,2024-03-08,22.02,Regular,38,7018.37,3987
+CAMP0115,Seasonal #24 - Jun 2024,Seasonal,Push Notification,2024-06-10,2024-06-23,25.37,Budget,24,2750.9,2649
+CAMP0116,Seasonal #25 - Jan 2023,Seasonal,Multi-Channel,2023-01-01,2023-01-05,17.96,Regular,25,2338.68,2007
+CAMP0117,Email Blast #24 - Sep 2024,Email Blast,Push Notification,2024-09-25,2024-10-05,17.24,Regular,24,324.48,566
+CAMP0118,Loyalty Reward #18 - Dec 2021,Loyalty Reward,Email,2021-12-26,2022-01-02,28.79,All,18,1338.37,2094
+CAMP0119,Flash Sale #39 - Sep 2022,Flash Sale,In-App,2022-09-21,2022-10-03,33.68,Premium,39,2779.85,1697
+CAMP0120,Email Blast #25 - Aug 2022,Email Blast,Email,2022-08-27,2022-08-30,20.65,Premium,25,6076.67,3394
+CAMP0121,Loyalty Reward #19 - Dec 2021,Loyalty Reward,In-App,2021-12-30,2022-01-11,15.15,All,19,2817.48,4970
+CAMP0122,Seasonal #26 - Jan 2021,Seasonal,Push Notification,2021-01-04,2021-01-16,29.98,Budget,26,4526.97,3518
+CAMP0123,Seasonal #27 - Mar 2024,Seasonal,Social Media,2024-03-19,2024-03-26,28.91,Premium,27,10592.62,4034
+CAMP0124,Loyalty Reward #20 - Mar 2024,Loyalty Reward,In-App,2024-03-08,2024-03-09,21.56,Premium,20,10362.06,4518
+CAMP0125,Email Blast #26 - Jan 2022,Email Blast,Push Notification,2022-01-08,2022-01-18,30.69,Regular,26,7708.06,3654
+CAMP0126,Email Blast #27 - Oct 2022,Email Blast,Social Media,2022-10-14,2022-10-27,21.4,Budget,27,2095.56,2644
+CAMP0127,Loyalty Reward #21 - Jun 2024,Loyalty Reward,Social Media,2024-06-06,2024-06-10,22.54,Regular,21,9403.85,3143
+CAMP0128,Email Blast #28 - Aug 2024,Email Blast,Email,2024-08-02,2024-08-12,31.94,Regular,28,1140.29,1547
+CAMP0129,Flash Sale #40 - Aug 2021,Flash Sale,Social Media,2021-08-02,2021-08-10,28.63,Budget,40,10922.54,4496
+CAMP0130,Loyalty Reward #22 - Oct 2021,Loyalty Reward,Push Notification,2021-10-16,2021-10-22,27.69,Premium,22,1714.14,2349
+CAMP0131,Email Blast #29 - Jun 2021,Email Blast,In-App,2021-06-09,2021-06-13,25.76,Regular,29,2802.55,4624
+CAMP0132,Email Blast #30 - Dec 2022,Email Blast,Social Media,2022-12-12,2022-12-18,32.16,Regular,30,2633.95,3715
+CAMP0133,Loyalty Reward #23 - Dec 2021,Loyalty Reward,Email,2021-12-10,2021-12-21,24.28,Regular,23,6881.51,3663
+CAMP0134,Email Blast #31 - Jul 2021,Email Blast,Multi-Channel,2021-07-01,2021-07-15,21.48,All,31,6221.78,3022
+CAMP0135,Email Blast #32 - Oct 2024,Email Blast,Social Media,2024-10-04,2024-10-15,28.75,Budget,32,5129.65,3061
+CAMP0136,Flash Sale #41 - Nov 2022,Flash Sale,Social Media,2022-11-19,2022-11-27,23.58,Regular,41,748.08,819
+CAMP0137,Loyalty Reward #24 - Jan 2021,Loyalty Reward,Push Notification,2021-01-24,2021-01-29,29.42,Premium,24,6902.19,2964
+CAMP0138,Loyalty Reward #25 - Mar 2022,Loyalty Reward,Email,2022-03-06,2022-03-10,31.29,All,25,12481.48,4773
+CAMP0139,Flash Sale #42 - May 2021,Flash Sale,Push Notification,2021-05-19,2021-05-25,31.51,Regular,42,3181.36,1126
+CAMP0140,Email Blast #33 - Jun 2022,Email Blast,Email,2022-06-10,2022-06-23,34.22,Regular,33,5070.24,4631
+CAMP0141,Email Blast #34 - Aug 2021,Email Blast,Email,2021-08-10,2021-08-22,27.3,Budget,34,7072.78,2613
+CAMP0142,Email Blast #35 - Jan 2021,Email Blast,Social Media,2021-01-03,2021-01-04,30.18,Regular,35,1785.13,752
+CAMP0143,Loyalty Reward #26 - Mar 2023,Loyalty Reward,Social Media,2023-03-02,2023-03-10,21.06,Budget,26,5818.03,3744
+CAMP0144,Clearance #14 - May 2023,Clearance,Social Media,2023-05-10,2023-05-13,16.75,All,14,12169.98,4084
+CAMP0145,Email Blast #36 - Apr 2023,Email Blast,Multi-Channel,2023-04-28,2023-05-06,21.71,Premium,36,1353.33,1146
+CAMP0146,Clearance #15 - Feb 2023,Clearance,Push Notification,2023-02-15,2023-02-21,14.95,Premium,15,6490.41,2986
+CAMP0147,Email Blast #37 - Jan 2024,Email Blast,Push Notification,2024-01-24,2024-01-31,30.56,Budget,37,1415.27,828
+CAMP0148,Loyalty Reward #27 - Jul 2021,Loyalty Reward,Social Media,2021-07-27,2021-08-10,29.5,Regular,27,1222.45,2393
+CAMP0149,Seasonal #28 - Sep 2023,Seasonal,Social Media,2023-09-09,2023-09-22,33.95,All,28,1460.56,1713
+CAMP0150,Seasonal #29 - Mar 2024,Seasonal,Social Media,2024-03-29,2024-04-09,27.65,Regular,29,4022.26,1737
+CAMP0151,Email Blast #38 - Apr 2022,Email Blast,Email,2022-04-07,2022-04-10,28.2,Premium,38,3580.34,4004
+CAMP0152,Loyalty Reward #28 - Jul 2023,Loyalty Reward,Push Notification,2023-07-14,2023-07-16,20.97,Premium,28,1543.68,1169
+CAMP0153,Loyalty Reward #29 - Mar 2021,Loyalty Reward,In-App,2021-03-10,2021-03-15,30.4,Premium,29,7669.57,3876
+CAMP0154,Seasonal #30 - Feb 2021,Seasonal,Email,2021-02-11,2021-02-17,21.39,Regular,30,3066.62,1211
+CAMP0155,Flash Sale #43 - Jun 2022,Flash Sale,Email,2022-06-19,2022-06-21,30.07,All,43,1168.2,1936
+CAMP0156,Email Blast #39 - Jun 2021,Email Blast,Multi-Channel,2021-06-01,2021-06-07,31.66,Regular,39,5654.3,3199
+CAMP0157,Clearance #16 - Dec 2021,Clearance,Multi-Channel,2021-12-15,2021-12-22,19.7,Regular,16,5831.55,4674
+CAMP0158,Email Blast #40 - Nov 2021,Email Blast,Push Notification,2021-11-26,2021-12-08,22.73,Regular,40,10420.26,4858
+CAMP0159,Seasonal #31 - Jun 2021,Seasonal,Social Media,2021-06-03,2021-06-12,28.87,All,31,4607.15,4091
+CAMP0160,Flash Sale #44 - Jul 2021,Flash Sale,Multi-Channel,2021-07-10,2021-07-16,30.76,All,44,1515.6,2335
+CAMP0161,Loyalty Reward #30 - May 2024,Loyalty Reward,Multi-Channel,2024-05-01,2024-05-11,33.35,All,30,2300.5,4036
+CAMP0162,Flash Sale #45 - Sep 2023,Flash Sale,Social Media,2023-09-16,2023-09-28,25.24,Regular,45,2368.91,994
+CAMP0163,Flash Sale #46 - Mar 2021,Flash Sale,Social Media,2021-03-05,2021-03-12,29.45,All,46,1577.59,1372
+CAMP0164,Loyalty Reward #31 - Aug 2024,Loyalty Reward,Social Media,2024-08-31,2024-09-03,20.02,Regular,31,4472.05,2449
+CAMP0165,Seasonal #32 - May 2024,Seasonal,Social Media,2024-05-28,2024-06-04,25.9,Budget,32,1791.76,1213
+CAMP0166,Flash Sale #47 - Nov 2021,Flash Sale,Multi-Channel,2021-11-18,2021-11-19,22.23,Premium,47,8029.83,2835
+CAMP0167,Email Blast #41 - Jul 2021,Email Blast,Push Notification,2021-07-27,2021-08-02,23.33,Premium,41,3403.15,2165
+CAMP0168,Flash Sale #48 - Feb 2022,Flash Sale,In-App,2022-02-25,2022-03-01,27.53,Regular,48,5168.55,4269
+CAMP0169,Seasonal #33 - Apr 2023,Seasonal,Social Media,2023-04-19,2023-05-01,24.23,Regular,33,1384.23,1961
+CAMP0170,Clearance #17 - Feb 2024,Clearance,In-App,2024-02-09,2024-02-21,13.53,Budget,17,8933.61,3202
+CAMP0171,Loyalty Reward #32 - Jan 2024,Loyalty Reward,Email,2024-01-12,2024-01-17,34.64,Budget,32,3545.07,4751
+CAMP0172,Email Blast #42 - Sep 2024,Email Blast,Email,2024-09-14,2024-09-19,27.16,Premium,42,3090.86,1546
+CAMP0173,Email Blast #43 - Sep 2022,Email Blast,In-App,2022-09-02,2022-09-06,25.65,Regular,43,5648.56,4646
+CAMP0174,Email Blast #44 - Jul 2021,Email Blast,Social Media,2021-07-16,2021-07-17,31.72,All,44,7200.96,3485
+CAMP0175,Flash Sale #49 - Mar 2023,Flash Sale,In-App,2023-03-16,2023-03-26,20.65,Regular,49,2107.64,3291
+CAMP0176,Flash Sale #50 - Jan 2024,Flash Sale,Email,2024-01-31,2024-02-14,22.44,Regular,50,2147.09,905
+CAMP0177,Loyalty Reward #33 - Oct 2023,Loyalty Reward,Push Notification,2023-10-03,2023-10-06,20.05,Budget,33,5058.22,1897
+CAMP0178,Flash Sale #51 - Apr 2021,Flash Sale,Email,2021-04-22,2021-04-28,22.75,Regular,51,13729.35,4721
+CAMP0179,Email Blast #45 - Jan 2021,Email Blast,Email,2021-01-08,2021-01-15,29.93,All,45,4873.08,2507
+CAMP0180,Email Blast #46 - Jun 2021,Email Blast,Social Media,2021-06-29,2021-07-04,34.09,Premium,46,3953.19,1797
+CAMP0181,Seasonal #34 - Sep 2024,Seasonal,Push Notification,2024-09-17,2024-09-28,32.12,Regular,34,4002.85,2956
+CAMP0182,Flash Sale #52 - May 2024,Flash Sale,Social Media,2024-05-14,2024-05-22,31.66,Regular,52,1176.07,1889
+CAMP0183,Flash Sale #53 - Feb 2022,Flash Sale,Social Media,2022-02-13,2022-02-15,26.34,Budget,53,6459.74,3345
+CAMP0184,Flash Sale #54 - Feb 2021,Flash Sale,In-App,2021-02-22,2021-02-26,24.63,All,54,2228.1,1241
+CAMP0185,Clearance #18 - Dec 2021,Clearance,Social Media,2021-12-16,2021-12-27,28.5,Regular,18,1077.69,1244
+CAMP0186,Flash Sale #55 - Aug 2022,Flash Sale,Multi-Channel,2022-08-21,2022-08-23,34.3,Premium,55,1295.49,1573
+CAMP0187,Flash Sale #56 - Aug 2023,Flash Sale,Multi-Channel,2023-08-28,2023-09-11,34.65,Regular,56,4158.18,2004
+CAMP0188,Seasonal #35 - Aug 2021,Seasonal,Social Media,2021-08-25,2021-08-30,32.88,Budget,35,2367.05,1937
+CAMP0189,Seasonal #36 - Mar 2023,Seasonal,In-App,2023-03-26,2023-04-03,25.73,Regular,36,1637.47,638
+CAMP0190,Loyalty Reward #34 - Sep 2023,Loyalty Reward,In-App,2023-09-29,2023-10-10,30.57,Regular,34,5694.22,4158
+CAMP0191,Seasonal #37 - Jun 2022,Seasonal,Push Notification,2022-06-27,2022-06-29,32.69,Regular,37,5946.3,2964
+CAMP0192,Clearance #19 - Aug 2024,Clearance,Email,2024-08-07,2024-08-16,26.53,Regular,19,697.15,1131
+CAMP0193,Email Blast #47 - Mar 2023,Email Blast,Push Notification,2023-03-05,2023-03-08,24.82,Regular,47,1988.62,1335
+CAMP0194,Email Blast #48 - Jan 2023,Email Blast,Social Media,2023-01-30,2023-02-06,25.53,Premium,48,2091.86,1281
+CAMP0195,Seasonal #38 - Jan 2023,Seasonal,Multi-Channel,2023-01-27,2023-01-30,24.77,Budget,38,2464.47,2367
+CAMP0196,Flash Sale #57 - Jul 2023,Flash Sale,Multi-Channel,2023-07-02,2023-07-03,20.64,Regular,57,8642.82,3700
+CAMP0197,Seasonal #39 - Jun 2022,Seasonal,In-App,2022-06-24,2022-07-02,33.73,Budget,39,3831.27,1663
+CAMP0198,Flash Sale #58 - Aug 2023,Flash Sale,Push Notification,2023-08-11,2023-08-16,24.66,Premium,58,2514.82,1678
+CAMP0199,Flash Sale #59 - Apr 2022,Flash Sale,Multi-Channel,2022-04-09,2022-04-23,21.04,Budget,59,8844.06,4456
+CAMP0200,Flash Sale #60 - Jul 2022,Flash Sale,In-App,2022-07-05,2022-07-15,31.14,Premium,60,2057.16,2090
